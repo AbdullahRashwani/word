@@ -1,0 +1,27 @@
+body{
+    background-color: #6ca3cf;
+}
+#document{
+    margin-top: 50px;
+    background-color: #FFF;
+    width: 21cm;
+    height: 29.7cm;
+    border: #e96c6c 1px solid;
+}
+.toolbtn{
+    border:  #dfdfdf 1px solid;
+    width: 32px;
+    height: 32px;
+}
+.nav-link{
+    border: 0px;
+    width: 32px;
+    height: 32px;
+    padding-top: 0px;
+}
+p{
+    margin-left: 5px;
+}
+div {
+    background-color: aqua;
+}
